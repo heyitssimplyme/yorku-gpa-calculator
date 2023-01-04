@@ -1,10 +1,11 @@
 # yorku-gpa-calculator
 
-A small script to calculate your 9 point and 4 point GPA from the York University "List of Courses and Grades" page (https://wrem.sis.yorku.ca/Apps/WebObjects/ydml.woa/wa/DirectAction/document?name=CourseListv1)
+A small script to calculate your 9 point and 4 point GPA from the York University ["List of Courses and Grades" page](https://wrem.sis.yorku.ca/Apps/WebObjects/ydml.woa/wa/DirectAction/document?name=CourseListv1)
 
 ## How to use
 
-1. Open your browser console
+1. Visit the ["List of Courses and Grades" page](https://wrem.sis.yorku.ca/Apps/WebObjects/ydml.woa/wa/DirectAction/document?name=CourseListv1)
+2. Open your browser console 
 <details>
   <summary>Instructions for Google Chrome</summary>
 
@@ -16,5 +17,5 @@ A small script to calculate your 9 point and 4 point GPA from the York Universit
 Instructions for other browsers are available on [this page](https://balsamiq.com/support/faqs/browserconsole/#google-chrome)
 
 
-2. Paste the contents of `gpa-calc.js` into the console, and hit enter. 
-3. Your nine-point and four-point GPA will be presented to you.
+3. Paste the contents of [`gpa-calc.js`](gpa-calc.js) into the console, and hit enter. 
+4. Your nine-point and four-point GPA will be presented to you.
